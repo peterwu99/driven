@@ -1,0 +1,5 @@
+NUM_CARS = 3
+TIME_STEP = 0.1 # in seconds
+
+CAR_LENGTH = 4
+ROAD_LENGTH = 60
